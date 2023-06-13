@@ -17,7 +17,7 @@ GET/tasks/:id should return single task by id
 DELETE/tasks/:id should delete task from array
 validation should be applied on all endpoints
 
-demo: 
+demo for result with postman: 
 
 
 https://github.com/AlaaDuridi/NodeJsBootCampChallengeD2/assets/51034664/03cdb29a-5a9d-49bc-8d18-02c7ea8a399d
