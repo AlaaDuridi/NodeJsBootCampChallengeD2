@@ -20,5 +20,8 @@ validation should be applied on all endpoints
 demo for result with postman: 
 
 
-https://github.com/AlaaDuridi/NodeJsBootCampChallengeD2/assets/51034664/03cdb29a-5a9d-49bc-8d18-02c7ea8a399d
+
+
+
+https://github.com/AlaaDuridi/NodeJsBootCampChallengeD2/assets/51034664/be6a2147-4a08-46c3-be7a-713273c28be3
 
